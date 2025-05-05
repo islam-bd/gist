@@ -1,5 +1,5 @@
 ## FFplay Tanzil from Batch file
-* ` a.bat ` file user directory
+* ` a.bat ` file can be
 ```bat
 @echo off 
 set v=%1
